@@ -112,17 +112,4 @@ ul.grid li p{
     text-align: center;
     color:white;
 }
-.intro a{
-width: 70px;
-height: 25px;
-position:fixed;
-background: #4848d4;
-padding: 10px;
-bottom:1em;
-right: 2em;
-color:white;
-text-decoration: none;
-font:  18px cursive ;
-font-weight: 500;
-border-radius: 20px;
-}
+
